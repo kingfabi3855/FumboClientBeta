@@ -18,7 +18,9 @@ Die SHA-256-Prüfsummen stehen in `SHA256SUMS.txt` des jeweiligen Releases.
 
 ## Updates und Rückweg zu Stable
 
-Ab FumboClient 1.25.1 erkennt der Client den Kanal an der installierten Version:
+Der stabile Release 1.25.1 wurde zurueckgezogen. Stable bleibt 1.25.0 und hat noch keinen Beta-Button. Die bereits veroeffentlichte 1.26.0-beta.1 enthaelt den Beta-Button. Der neue Oberflaechen-/Ruestungs-Schimmer-Umbau ist noch nicht veroeffentlicht.
+
+Versionen mit Beta-Button erkennen den Kanal an der installierten Version:
 
 - **Installierte Beta** (`…-beta.N`): Update-Prüfung nutzt dieses Beta-Repository.
 - **Stabile Version**: Update-Prüfung nutzt das stabile Repository.
